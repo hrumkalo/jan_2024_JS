@@ -25,12 +25,39 @@
 
 // ---------------------------------------1.3---------------------------------------
 
-let firstBook = {title: "Holly", pageCount: 464, genre: "horror",
-    authors:["Stephen King", 76]};
-let secondBook = {title: "Harry Potter and the Philosopher's Stone", pageCount: 368, genre: "fantasy",
-    authors:["Joanne Rowling", 58]};
-let thirdBook = {title: "Fourth Wing", pageCount: 512, genre: "horror",
-    authors:["Stephen King", 76]};
+// let firstBook = {title: "Holly", pageCount: 464, genre: "horror",
+//     authors:["Stephen King", 76]};
+// let secondBook = {title: "Harry Potter and the Philosopher's Stone", pageCount: 368, genre: "fantasy",
+//     authors:["Joanne Rowling", 58]};
+// let thirdBook = {title: "Fourth Wing", pageCount: 512, genre: "romantic fantasy",
+//     authors:["Rebecca Yarros", 42]};
+// console.log(firstBook,secondBook, thirdBook);
 
+// ---------------------------------------1.4---------------------------------------
 
-console.log(firstBook)
+// let users = [
+//     {name: "Alex", username: "Drakula", password: "qwerty"},
+//     {name: "Vasya", username: "Pampushka", password: "qwerty123"},
+//     {name: "Pasha", username: "Subaber", password: 01011990},
+//     {name: "Inna", username: "Koza123", password: "luckyGirl"},
+//     {name: "Dasha", username: "Romashka", password: "1990qwerty"},
+//     {name: "Kostia", username: "GoldBoy", password: "user123"},
+//     {name: "Lina", username: "Guide", password: "guide1989"},
+//     {name: "Andrii", username: "Proffy", password: "poliglot09"},
+//     {name: "Rostik", username: "StreetMan", password: "mypassword"},
+//     {name: "Olia", username: "Doctor", password: "strongpassword"}]
+//  console.log(users.length);
+//  console.log(users);
+//  console.log(users[0].password);
+//  console.log(users[1].password);
+//  console.log(users[2].password);
+//  console.log(users[3].password);
+//  console.log(users[4].password);
+//  console.log(users[5].password);
+//  console.log(users[6].password);
+//  console.log(users[7].password);
+//  console.log(users[8].password);
+//  console.log(users[9].password);
+
+<!--Логічні розгалуження:-->
+// ---------------------------------------2.1---------------------------------------
