@@ -123,3 +123,14 @@
 
 // ---------------------------------------2.4---------------------------------------
 
+let schedul = 'Monday'
+
+
+
+let scheduleOnMonday = {day: 'Monday', task: 'learn JS'};
+let scheduleOnTuesday = {day: 'Tuesday', task: 'learn English'};
+let scheduleOnWednesday = {day: 'Wednesday', task: 'chatting with mentor'};
+let scheduleOnThursday = {day: 'Thursday', task: 'learn articles about JS'};
+let scheduleOnFriday = {day: 'Friday', task: 'practice JS'};
+let scheduleOnSaturday = {day: 'Saturday', task: 'resting'};
+let scheduleOnSunday = {day: 'Monday', task: 'meet with friends'};
